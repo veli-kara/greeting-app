@@ -8,4 +8,3 @@ function updateUI(message) {
     document.getElementById('greetingMessage').innerText = message;
 }
   
-module.exports = { submitName, updateUI };
